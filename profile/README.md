@@ -31,9 +31,9 @@ Lower Yangtze Mandarin is this user's native language.</td>
 This user uses Simplified Chinese characters.</td>
     </tr>
     <tr>
-        <td>ja-1</td>
-        <td>この利用者は初級の日本語ができます。</br>
-This user has a very basic level of Japanese proficiency.</td>
+        <td>ja-2</td>
+        <td>この利用者は中級の日本語ができます。</br>
+This user has intermediate Japanese proficiency.</td>
 </table>  
 
 Email: **[furuochen.mail@gmail.com](mailto:furuochen.mail@gmail.com)**   
