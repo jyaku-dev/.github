@@ -42,5 +42,7 @@ Main Github: [@furuochen-dev](https://github.com/furuochen-dev)
 ### Uploads to:
 Youtube: [@jyaku-youtube](https://www.youtube.com/@jyaku-youtube)  
 
-### Current Scores:
+### Accordion Scores:
 死別　シャンノン： [jyaku-dev/shibetsu](https://github.com/jyaku-dev/shibetsu)   
+イワシがつちからはえてくるんだ： [jyaku-dev/...](https://github.com/jyaku-dev/iwashi-ga-tsuchi-kara-haete-kurunda)   
+春日影（MyGO!!!!! ver.）： [jyaku-dev/haruhikage](https://github.com/jyaku-dev/haruhikage)   
